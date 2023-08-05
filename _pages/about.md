@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Greetings! 👋
 
 
@@ -27,5 +28,6 @@ The world of technology is constantly changing and evolving. This is why it is e
 **System Security and Continuity:**
 System security and continuity are other important areas in which I work as an IT Platform Engineer and SRE Engineer. Ensuring the security of the infrastructure, implementing defense mechanisms against security threats, and minimizing service disruptions are some of our core responsibilities. This involves strengthening authentication and authorization processes, configuring security firewalls, and intrusion detection systems. Additionally, I continuously manage backup and recovery plans to ensure the continuity of systems.
 
-See you around! 
+See you around! 🔜
+
 
