@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "💻 SRE & Devops Engineer"
+title: "💻 IT Platform Engineer and SRE Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋
+Greetings! 👋
 
-This is my post about my experiences working as a SRE & Devops Engineer at LC Waikiki. LC Waikiki is one of the leading retail brands in Turkey, and working in their technology department has been an exciting journey for me.
 
-**Work Environment and Technologies:**
-As a SRE & Devops Engineer at LC Waikiki, I focus on technologies like Kubernetes, Terraform, Ansible, and Python. These technologies are used to manage the company's infrastructure in a robust and scalable manner. The culture and diverse projects within the organization provide continuous learning and growth opportunities.
+I work as an IT Platform Engineer and SRE Engineer, and I would like to share my experiences with you. In this role, I am heavily involved in designing, managing, and ensuring the continuity of IT infrastructure. I have a particular interest in areas such as Kubernetes, Microservices, Infrastructure as Code (IaC), and system security. These interests constantly drive me to explore and evolve with new technologies. 
 
-**Kubernetes and Microservices:**
-LC Waikiki's infrastructure is built on a microservices architecture. We use Kubernetes to deploy, monitor, and scale these microservices, ensuring high availability and performance of our applications.
+Now, let me provide you with more information about my areas of interest and work experiences.
 
-**Terraform and Infrastructure Management:**
-We use Terraform for infrastructure management, enabling us to code-manage resources on cloud providers, making it easier to build repeatable and reliable infrastructure.
+**Kubernetes and Microservices**
+Kubernetes and Microservices are crucial technologies for the deployment and management of modern software applications. The Microservices architecture replaces large monolithic applications with smaller, independent services. This allows applications to be more flexible, scalable, and developed independently by different teams. Kubernetes, on the other hand, is an orchestration tool that automates the deployment, monitoring, and scaling of these microservices. By specializing in Kubernetes and Microservices, I contribute to organizations in delivering efficient and high-performance applications.
 
-**Ansible and Automation:**
-Ansible is used for configuring and managing both infrastructure and applications. Automation empowers our teams to be more efficient and effective.
+**Infrastructure as Code (IaC)**
+IaC is an approach that defines and manages infrastructure resources through code. Rather than manually configuring infrastructure, IaC involves defining it in a code-based format and automating the provisioning process. Tools like Terraform and Ansible embrace IaC principles, enabling the creation and management of infrastructure in a repeatable and consistent manner. By working with IaC, I contribute to the creation of a more reliable and rapidly manageable infrastructure.
 
-**Python and Tool Development:**
-Python is the primary language we use for developing tools and services within the platform team. Our tools automate processes and improve the team's workflow.
+**Work Environment and New Technologies**
+The world of technology is constantly changing and evolving. This is why it is essential to keep up with new technologies and continuously improve our work environment. One of my interests lies in this area; I am constantly researching and experimenting with new technologies and proposing ways to make our working environment more efficient and productive. By collaborating with my colleagues, I aim to embrace and experience the latest technologies, making a difference in our work.
 
-Working at LC Waikiki has been a fulfilling experience that satisfies my passion for technology. Leveraging evolving technologies, I take pride in contributing to the success of the company.
+**System Security and Continuity**
+System security and continuity are other important areas in which I work as an IT Platform Engineer and SRE Engineer. Ensuring the security of the infrastructure, implementing defense mechanisms against security threats, and minimizing service disruptions are some of our core responsibilities. This involves strengthening authentication and authorization processes, configuring security firewalls, and intrusion detection systems. Additionally, I continuously manage backup and recovery plans to ensure the continuity of systems.
 
-For more information, you can visit LC Waikiki's [website](https://www.lcwaikiki.com/tr-TR/TR).
-
-See you around! 👋👋
+See you around! 
 
